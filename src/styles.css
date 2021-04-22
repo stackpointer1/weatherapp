@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+*{
+  justify-content: space-between;
+  display:flexbox;
+  background: url('') 
+  
+}
+input{
+ width:70%;
+ padding:12px 20px;
+ margin:8px 0;
+ box-sizing:order-box;
+ background-color:rgb(245, 196, 212);
+ color:white;
+ cursor:pointer;
+}
+.box{
+box-sizing:border-box;
+background-color: aquamarine;
+height:100vh;
+
+
+
+}
